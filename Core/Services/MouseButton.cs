@@ -1,7 +1,7 @@
 using System;
 
 
-namespace Byui.Games.Services
+namespace diffuse
 {
     public class MouseButton
     {

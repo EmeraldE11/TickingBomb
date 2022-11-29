@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Byui.Games.Casting;
 
 
-namespace Byui.Games.Services
+namespace diffuse
 {
     public interface IVideoService
     {

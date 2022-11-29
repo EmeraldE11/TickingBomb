@@ -1,4 +1,4 @@
-namespace Byui.Games.Services
+namespace diffuse
 {
     public interface IKeyboardService
     {
