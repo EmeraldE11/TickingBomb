@@ -2,7 +2,7 @@ using System;
 using System.Numerics;
 
 
-namespace diffuse
+namespace Diffuse.Casting
 {
     /// <summary>
     /// A visible Actor.

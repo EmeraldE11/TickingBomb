@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 
 
-namespace diffuse
+namespace Diffuse.Casting
 {
     /// <summary>
     /// A validator for string and numeric types.

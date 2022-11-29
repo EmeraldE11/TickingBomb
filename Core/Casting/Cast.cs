@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace diffuse
+namespace Diffuse.Casting
 {
     /// <summary>
     /// A collection of Actors.

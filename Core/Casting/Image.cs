@@ -1,7 +1,7 @@
 using System;
 
 
-namespace diffuse
+namespace Diffuse.Casting
 {
     /// <summary>
     /// A visible Actor.

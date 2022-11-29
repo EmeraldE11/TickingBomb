@@ -1,4 +1,4 @@
-namespace diffuse
+namespace Diffuse.Casting
 {
     /// <summary>
     /// A readable Actor.
