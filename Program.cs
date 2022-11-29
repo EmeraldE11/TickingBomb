@@ -1,7 +1,7 @@
-using Byui.Games.Casting;
-using Byui.Games.Services;
-using Byui.Games.Directing;
-using Byui.Games.Scripting;
+using Diffuse.Casting;
+using Diffuse.Services;
+using Diffuse.Directing;
+using Diffuse.Scripting;
 
 
 namespace Defuser
@@ -15,6 +15,11 @@ namespace Defuser
 
             cast.AddActor("bomb", bomb);
             KeyboardService keyboardService = new KeyboardService();
+            VideoService videoService = new VideoService();
+            
+            Script script = new Script();
+            script.AddAction("input", new ControlActorsAction(keyboardService));
+            script.AddAction("output", new DrawActorsAction(videoService));
         }
     }
 }
