@@ -2,7 +2,7 @@ using System;
 using System.Numerics;
 
 
-namespace Byui.Games.Casting
+namespace diffuse
 {
     /// <summary>
     /// A participant in the game.

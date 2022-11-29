@@ -6,7 +6,7 @@ using Byui.Games.Casting;
 using Raylib_cs;
 
 
-namespace Byui.Games.Services
+namespace diffuse
 {
     public class RaylibVideoService : IVideoService
     {

@@ -3,7 +3,7 @@ using System.IO;
 using Raylib_cs;
 
 
-namespace Byui.Games.Services
+namespace diffuse
 {
     public class RaylibAudioService : IAudioService
     {

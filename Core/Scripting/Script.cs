@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Byui.Games.Casting;
 
 
-namespace Byui.Games.Scripting
+namespace diffuse
 {
     /// <summary>
     /// A collection of Actions.

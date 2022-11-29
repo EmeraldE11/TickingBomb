@@ -1,7 +1,7 @@
 using System;
 
 
-namespace Byui.Games.Scripting
+namespace diffuse
 {
     /// <summary>
     /// Defines game phases.

@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 
 
-namespace Byui.Games.Casting
+namespace diffuse
 {
     /// <summary>
     /// A validator for string and numeric types.

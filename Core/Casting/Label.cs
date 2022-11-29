@@ -1,4 +1,4 @@
-namespace Byui.Games.Casting
+namespace diffuse
 {
     /// <summary>
     /// A readable Actor.
