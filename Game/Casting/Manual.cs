@@ -1,8 +1,13 @@
 namespace Diffuse {
-    public class Manual {
+    public class manual {
         
     }
 }
+
+// Pull input
+// display raylib
+// pull from data (module steps)
+
 
 // 5 wires
 // 5 colors - red, green, blue, yellow, purple
@@ -15,3 +20,10 @@ namespace Diffuse {
 // If there is one blue and one green wire, cut the third wire
 // If there are two or more yellow, cut the fourth wire
 // Otherwise, cut the second wire
+
+
+// Step 1:
+// Bi-Step:
+// Step 21/7:
+// Use weird step names, scramble them in the text file or pull them in a more random order
+// to display for confusion.
