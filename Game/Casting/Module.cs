@@ -1,4 +1,4 @@
-namespace diffuse
+namespace Diffuse
 
 public class wires {
 

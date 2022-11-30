@@ -1,4 +1,4 @@
-namespace diffuse
+namespace Diffuse
 
 // 5 wires
 // 5 colors - red, green, blue, yellow, purple

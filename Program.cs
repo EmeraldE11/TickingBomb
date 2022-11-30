@@ -4,7 +4,7 @@ using Byui.Games.Directing;
 using Byui.Games.Scripting;
 
 
-namespace Defuser
+namespace Diffuse
 {
     class Program
     {

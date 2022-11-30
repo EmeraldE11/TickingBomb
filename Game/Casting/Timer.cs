@@ -1,1 +1,1 @@
-namespace diffuse
+namespace Diffuse
