@@ -1,0 +1,5 @@
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.csproj.AssemblyReference.cache
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.AssemblyInfoInputs.cache
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.AssemblyInfo.cs
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.csproj.CoreCompileInputs.cache
