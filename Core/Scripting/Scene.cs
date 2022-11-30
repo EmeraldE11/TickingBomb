@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Byui.Games.Casting;
 
 
-namespace diffuse
+namespace Byui.Games.Scripting
 {
     /// <summary>
     /// The current state of the game.

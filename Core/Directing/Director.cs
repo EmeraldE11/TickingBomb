@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Byui.Games.Scripting;
 using Byui.Games.Services;
 
-namespace diffuse
+namespace Byui.Games.Directing
 {
     /// <summary>
     /// Controls the sequence and pacing of the game.
