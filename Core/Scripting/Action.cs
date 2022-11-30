@@ -1,4 +1,4 @@
-namespace diffuse
+namespace Byui.Games.Scripting
 {
     /// <summary>
     /// A thing that is done in the game.
