@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace Diffuse.Casting
+namespace Byui.Games.Casting
 {
     /// <summary>
     /// A collection of Actors.

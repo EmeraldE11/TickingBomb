@@ -1,6 +1,6 @@
 using System;
 
-namespace Diffuse.Casting
+namespace Byui.Games.Casting
 {
     /// <summary>
     /// A color.
