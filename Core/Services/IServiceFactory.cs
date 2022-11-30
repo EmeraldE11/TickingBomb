@@ -1,6 +1,6 @@
 using Byui.Games.Casting;
 
-namespace diffuse
+namespace Byui.Games.Services
 {
     public interface IServiceFactory
     {

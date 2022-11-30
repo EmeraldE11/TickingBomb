@@ -1,7 +1,7 @@
 using System.Numerics;
 
 
-namespace diffuse
+namespace Byui.Games.Services
 {
     public interface IMouseService
     {

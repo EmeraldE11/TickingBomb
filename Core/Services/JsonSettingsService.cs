@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 
-namespace diffuse
+namespace Byui.Games.Services
 {
     public class JsonSettingsService : ISettingsService
     {

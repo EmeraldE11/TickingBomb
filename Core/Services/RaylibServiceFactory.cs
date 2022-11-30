@@ -1,7 +1,7 @@
 using System.Numerics;
 using Byui.Games.Casting;
 
-namespace diffuse
+namespace Byui.Games.Services
 {
     public class RaylibServiceFactory : IServiceFactory
     {
