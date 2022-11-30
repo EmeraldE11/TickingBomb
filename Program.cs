@@ -1,7 +1,7 @@
-using Diffuse.Casting;
-using Diffuse.Services;
-using Diffuse.Directing;
-using Diffuse.Scripting;
+using Byui.Games.Casting;
+using Byui.Games.Services;
+using Byui.Games.Directing;
+using Byui.Games.Scripting;
 
 
 namespace Defuser
