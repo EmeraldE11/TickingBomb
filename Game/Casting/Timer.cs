@@ -1,5 +1,5 @@
 namespace Diffuse {
-    public class timer {
+    public class Timer {
         
     }
 }

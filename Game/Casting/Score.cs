@@ -1,5 +1,5 @@
 namespace Diffuse {
-    public class score {
+    public class Score {
 
     }
 }

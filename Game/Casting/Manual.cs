@@ -1,5 +1,5 @@
 namespace Diffuse {
-    public class manual {
+    public class Manual {
         
     }
 }

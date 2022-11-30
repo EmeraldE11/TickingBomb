@@ -1,5 +1,5 @@
 namespace Diffuse {
-    public class bomb {
+    public class Bomb {
         
     }
 }

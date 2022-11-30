@@ -1,7 +1,7 @@
 namespace Diffuse
 
 {
-    public class wires {
+    public class Wires {
 
     }
 
