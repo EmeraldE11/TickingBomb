@@ -22,6 +22,8 @@ namespace Diffuse
             Script script = new Script();
             script.AddAction("input", new ControlActorsAction(keyboardService));
             script.AddAction("output", new DrawActorsAction(videoService));
+            Director director = new Director(videoService);
+            director.StartGame(cast, script);
         }
     }
 }
