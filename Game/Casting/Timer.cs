@@ -1,1 +1,5 @@
-namespace Diffuse
+namespace Diffuse {
+    public class timer {
+        
+    }
+}

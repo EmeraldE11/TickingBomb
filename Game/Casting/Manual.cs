@@ -1,4 +1,8 @@
-namespace Diffuse
+namespace Diffuse {
+    public class manual {
+        
+    }
+}
 
 // 5 wires
 // 5 colors - red, green, blue, yellow, purple
