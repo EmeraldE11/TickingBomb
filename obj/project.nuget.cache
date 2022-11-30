@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WO7ptI+zLsrBsaFaaSjSu/kPkjeAAe91ipJhn4IFj3VxXqYvoTtY1TEQcwZsJa/emege6Y60gCrsB7+BQlU0vQ==",
+  "dgSpecHash": "82vfUqJMEGXEzBS/0xoNSeSV2+QKSp0ZBcu8Gx2HIYtyb8MCNnsUBFlxrkY+YWfXMp3TEtoBi7uoRAr9DthDkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aiden\\Desktop\\Programming with classes\\TickingBomb\\TickingBomb.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/christianmaldonado/Documents/cse210/TickingBomb/TickingBomb.csproj",
+  "expectedPackageFiles": [
+    "/Users/christianmaldonado/.nuget/packages/raylib-cs/4.2.0.1/raylib-cs.4.2.0.1.nupkg.sha512",
+    "/Users/christianmaldonado/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

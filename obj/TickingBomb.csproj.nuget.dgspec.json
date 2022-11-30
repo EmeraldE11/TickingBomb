@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aiden\\Desktop\\Programming with classes\\TickingBomb\\TickingBomb.csproj": {}
+    "/Users/christianmaldonado/Documents/cse210/TickingBomb/TickingBomb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aiden\\Desktop\\Programming with classes\\TickingBomb\\TickingBomb.csproj": {
+    "/Users/christianmaldonado/Documents/cse210/TickingBomb/TickingBomb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aiden\\Desktop\\Programming with classes\\TickingBomb\\TickingBomb.csproj",
+        "projectUniqueName": "/Users/christianmaldonado/Documents/cse210/TickingBomb/TickingBomb.csproj",
         "projectName": "TickingBomb",
-        "projectPath": "C:\\Users\\Aiden\\Desktop\\Programming with classes\\TickingBomb\\TickingBomb.csproj",
-        "packagesPath": "C:\\Users\\Aiden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aiden\\Desktop\\Programming with classes\\TickingBomb\\obj\\",
+        "projectPath": "/Users/christianmaldonado/Documents/cse210/TickingBomb/TickingBomb.csproj",
+        "packagesPath": "/Users/christianmaldonado/.nuget/packages/",
+        "outputPath": "/Users/christianmaldonado/Documents/cse210/TickingBomb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aiden\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/christianmaldonado/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "raylib-cs": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
