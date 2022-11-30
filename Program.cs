@@ -16,8 +16,8 @@ namespace Diffuse
 
             cast.AddActor("bomb", bomb);
             cast.AddActor("manual", manual);
-            KeyboardService keyboardService = new KeyboardService();
-            VideoService videoService = new VideoService();
+            RaylibKeyboardService keyboardService = new RaylibKeyboardService();
+            RaylibVideoService videoService = new RaylibVideoService();
             
             Script script = new Script();
             script.AddAction("input", new ControlActorsAction(keyboardService));
