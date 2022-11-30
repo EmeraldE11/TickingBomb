@@ -12,8 +12,10 @@ namespace Defuser
         {
             Cast cast = new Cast();
             Bomb bomb = new Bomb();
+            Manual manual = new Manual();
 
             cast.AddActor("bomb", bomb);
+            cast.AddActor("manual", manual);
             KeyboardService keyboardService = new KeyboardService();
             VideoService videoService = new VideoService();
             
