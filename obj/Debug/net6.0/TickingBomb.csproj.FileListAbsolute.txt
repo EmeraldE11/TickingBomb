@@ -13,3 +13,8 @@ C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\ob
 C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\obj\Debug\net6.0\TickingBomb.AssemblyInfoInputs.cache
 C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\obj\Debug\net6.0\TickingBomb.AssemblyInfo.cs
 C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\obj\Debug\net6.0\TickingBomb.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.csproj.AssemblyReference.cache
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.AssemblyInfoInputs.cache
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.AssemblyInfo.cs
+C:\Users\Aiden\Desktop\Programming with classes\TickingBomb\obj\Debug\net6.0\TickingBomb.csproj.CoreCompileInputs.cache

@@ -10,22 +10,16 @@ namespace Diffuse
     {
         static void Main(string[] args)
         {
-            Cast cast = new Cast();
+            Scene scene = new Scene();
             Bomb bomb = new Bomb();
             Manual manual = new Manual();
 
-            cast.Add("bomb", bomb);
-            cast.Add("manual", manual);
-
-            ISettingsService settingService = new ISettingsService();
-            RaylibKeyboardService keyboardService = new RaylibKeyboardService();
-            RaylibVideoService videoService = new RaylibVideoService(settingService);
+            scene.AddActor("bomb", bomb);
+            scene.AddActor("manual", manual);
+            IServiceFactory serviceFactory = new RaylibServiceFactory();
             
-            Script script = new Script();
-            script.Add("input", new ControlActorsAction(keyboardService));
-            script.Add("output", new DrawActorsAction(videoService));
-            Director director = new Director(videoService);
-            director.StartGame(cast, script);
+            Director director = new Director(serviceFactory);
+            director.Direct(scene);
         }
     }
 }
