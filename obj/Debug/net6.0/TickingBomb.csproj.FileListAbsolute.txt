@@ -8,3 +8,8 @@ C:/Users/Aiden/Desktop/Programming with classes/TickingBomb/obj/Debug/net6.0/Tic
 /Users/christianmaldonado/Documents/cse210/TickingBomb/obj/Debug/net6.0/TickingBomb.AssemblyInfoInputs.cache
 /Users/christianmaldonado/Documents/cse210/TickingBomb/obj/Debug/net6.0/TickingBomb.AssemblyInfo.cs
 /Users/christianmaldonado/Documents/cse210/TickingBomb/obj/Debug/net6.0/TickingBomb.csproj.CoreCompileInputs.cache
+C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\obj\Debug\net6.0\TickingBomb.csproj.AssemblyReference.cache
+C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\obj\Debug\net6.0\TickingBomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\obj\Debug\net6.0\TickingBomb.AssemblyInfoInputs.cache
+C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\obj\Debug\net6.0\TickingBomb.AssemblyInfo.cs
+C:\College\Semester 5 (Fall 22)\Programming with Classes (Take 2)\TickingBomb\obj\Debug\net6.0\TickingBomb.csproj.CoreCompileInputs.cache
