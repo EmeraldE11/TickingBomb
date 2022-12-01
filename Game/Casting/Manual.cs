@@ -1,5 +1,7 @@
+using Byui.Games.Casting;
+
 namespace Diffuse {
-    public class Manual {
+    public class Manual : Actor{
         
     }
 }

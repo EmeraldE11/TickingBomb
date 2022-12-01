@@ -14,16 +14,16 @@ namespace Diffuse
             Bomb bomb = new Bomb();
             Manual manual = new Manual();
 
-            cast.AddActor("bomb", bomb);
-            cast.AddActor("manual", manual);
+            cast.Add("bomb", bomb);
+            cast.Add("manual", manual);
 
             ISettingsService settingService = new ISettingsService();
             RaylibKeyboardService keyboardService = new RaylibKeyboardService();
             RaylibVideoService videoService = new RaylibVideoService(settingService);
             
             Script script = new Script();
-            script.AddAction("input", new ControlActorsAction(keyboardService));
-            script.AddAction("output", new DrawActorsAction(videoService));
+            script.Add("input", new ControlActorsAction(keyboardService));
+            script.Add("output", new DrawActorsAction(videoService));
             Director director = new Director(videoService);
             director.StartGame(cast, script);
         }
