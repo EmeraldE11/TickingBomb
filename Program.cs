@@ -1,4 +1,4 @@
-using Byui.Games.Casting;
+﻿using Byui.Games.Casting;
 using Byui.Games.Services;
 using Byui.Games.Directing;
 using Byui.Games.Scripting;
@@ -16,8 +16,10 @@ namespace Diffuse
 
             cast.AddActor("bomb", bomb);
             cast.AddActor("manual", manual);
+
+            ISettingsService settingService = new ISettingsService();
             RaylibKeyboardService keyboardService = new RaylibKeyboardService();
-            RaylibVideoService videoService = new RaylibVideoService();
+            RaylibVideoService videoService = new RaylibVideoService(settingService);
             
             Script script = new Script();
             script.AddAction("input", new ControlActorsAction(keyboardService));
