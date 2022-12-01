@@ -61,7 +61,7 @@ namespace Byui.Games.Directing
         {
             float deltaTime = _videoService.GetDeltaTime();
             List<Byui.Games.Scripting.Action> actions = scene.GetAllActions(phase);
-            foreach(Action action in actions)
+            foreach(Byui.Games.Scripting.Action action in actions)
             {
                 action.Execute(scene, deltaTime, this);
             }
