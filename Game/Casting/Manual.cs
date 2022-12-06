@@ -7,7 +7,9 @@ namespace Diffuse {
      {
         //replace with manual files and logic as created
         this.Display("assets/bomb.png");
-        this.ScaleTo(3.0f);
+        this.SizeTo(32f, 32f);
+  
+        this.MoveTo(200f, 10f);
      }
     }
 }

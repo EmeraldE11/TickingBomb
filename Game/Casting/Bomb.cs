@@ -6,7 +6,9 @@ namespace Diffuse {
         public Bomb ()
         {
             this.Display("assets/bomb.png");
-            this.ScaleTo(3.0f);
+            this.SizeTo(32f, 32f);
+            this.ScaleTo(2.0f);
+            this.MoveTo(10f, 10f);
         }
     }
 }
