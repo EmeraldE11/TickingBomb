@@ -18,6 +18,8 @@ namespace Diffuse
             scene.AddActor("manual", manual);
             IServiceFactory serviceFactory = new RaylibServiceFactory();
             DrawActorsAction drawActorsAction = new DrawActorsAction(serviceFactory);
+            GetInputAction getInputAction = new GetInputAction(serviceFactory);
+            scene.AddAction(Phase.Input, getInputAction);
             scene.AddAction(Phase.Output, drawActorsAction);
             Director director = new Director(serviceFactory);
             director.Direct(scene);
