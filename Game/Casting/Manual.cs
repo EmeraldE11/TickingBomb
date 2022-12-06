@@ -1,8 +1,14 @@
 using Byui.Games.Casting;
 
 namespace Diffuse {
-    public class Manual : Actor{
-        
+    public class Manual : Image
+    {
+     public Manual ()
+     {
+        //replace with manual files and logic as created
+        this.Display("assets/bomb.png");
+        this.ScaleTo(3.0f);
+     }
     }
 }
 
