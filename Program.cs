@@ -12,12 +12,16 @@ namespace Diffuse
         {
             Scene scene = new Scene();
             Bomb bomb = new Bomb();
+//            Explosion explosion = new Explosion();
             Manual manual = new Manual();
-            Score score = new Score();
+//            Check check = new Check();
+//            Xmark xmark = new Xmark();
 
             scene.AddActor("bomb", bomb);
             scene.AddActor("manual", manual);
-            scene.AddActor("score", score);
+//            scene.AddActor("explosion", explosion);
+//            scene.AddActor("check", check);
+//            scene.AddActor("xmark", xmark);
             IServiceFactory serviceFactory = new RaylibServiceFactory();
             DrawActorsAction drawActorsAction = new DrawActorsAction(serviceFactory);
             GetInputAction getInputAction = new GetInputAction(serviceFactory);
