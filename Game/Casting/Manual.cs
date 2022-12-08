@@ -9,7 +9,7 @@ namespace Diffuse {
         this.Display("assets/manual.png");
         this.SizeTo(1226f, 832f);
         this.ScaleTo(0.4f);
-        this.MoveTo(-220f, -180f);
+        this.MoveTo(140f, -180f);
      }
     }
 }
