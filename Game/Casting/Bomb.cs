@@ -9,6 +9,11 @@ namespace Diffuse {
             this.SizeTo(32f, 32f);
             this.ScaleTo(2.0f);
             this.MoveTo(10f, 10f);
+
+            this.Display("assets/explosion.png");
+            this.SizeTo(840f, 523f);
+            this.ScaleTo(1.0f);
+            this.MoveTo(10f, 10f);            
         }
     }
 }
