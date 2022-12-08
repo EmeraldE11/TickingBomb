@@ -6,10 +6,10 @@ namespace Diffuse {
      public Manual ()
      {
         //replace with manual files and logic as created
-        this.Display("assets/bomb.png");
-        this.SizeTo(32f, 32f);
-  
-        this.MoveTo(200f, 10f);
+        this.Display("assets/manual.png");
+        this.SizeTo(1226f, 832f);
+        this.ScaleTo(0.4f);
+        this.MoveTo(-220f, -180f);
      }
     }
 }
