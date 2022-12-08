@@ -26,8 +26,8 @@ namespace Diffuse
         {
             try
             {
-                if (keyboardService.IsKeyPressed(KeyboardKey.A)){
-                    Console.WriteLine("A");
+                if (keyboardService.IsKeyPressed(KeyboardKey.Two)){
+                    Console.WriteLine("2");
                 }
             }
             catch (Exception exception)
